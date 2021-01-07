@@ -1,4 +1,6 @@
 
+
+## Hello there 😄 ✨
 This is my personal profile on GitHub. You may find some useful information.!
 - 🔭 I’m currently working on PhD dissertation as part time beside my full time job. I also teach Data Mining CS634 at NJIT.
 - 🔭 I also work as an Advisory Software Engineer at IBM.
