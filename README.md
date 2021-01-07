@@ -1,6 +1,6 @@
 
 
-![alt text](https://web.njit.edu/~ya54/images/MyPic.jpg)
+
 ## Hello there  ✨
 This is my personal profile on GitHub. You may find some useful information.!
 - 🔭 I’m currently working on PhD dissertation as part time beside my full time job. I also teach Data Mining CS634 at NJIT.
